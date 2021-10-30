@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>zhuye</h1>
+    <h1>主页</h1>
   </div>
 </template>
 

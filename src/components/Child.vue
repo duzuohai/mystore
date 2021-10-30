@@ -1,6 +1,6 @@
 <template>
   <div id="box">
-    <h2>child子组件部分</h2>
+    <h2>child子组件部分啊</h2>
     <!-- <h1>{{ message }}</h1> -->
     <button @click="sendMessage">sendMessage</button>
   </div>
